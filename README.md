@@ -242,6 +242,31 @@ Possible future improvements:
 
 ---
 
+## 📁 Project Structure
+
+### Notebooks
+- **01_bronze.ipynb**  
+  Raw data ingestion and initial schema creation (Bronze layer)
+
+- **02_silver.ipynb**  
+  Data cleaning, filtering, and preparation for analysis (Silver layer)
+
+- **03_gold.ipynb**  
+  Feature engineering and repeat purchase labeling (Gold layer)
+
+- **04_ml.ipynb**  
+  Baseline ML model training and MLflow experiment tracking
+
+### Screenshots
+- project screenshots
+  
+### Documentation
+- **README.md**  
+  Project overview, design decisions, and key learnings
+
+
+---
+
 ## Author
 
 **Shubham Vimal**  
